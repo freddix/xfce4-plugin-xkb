@@ -2,12 +2,12 @@
 
 Summary:	Displays and switched the current keyboard layout
 Name:		xfce4-plugin-xkb
-Version:	0.5.5
+Version:	0.5.6
 Release:	1
 License:	BSD-like
 Group:		X11/Applications
 Source0:	http://archive.xfce.org/src/panel-plugins/xfce4-xkb-plugin/0.5/%{org_name}-%{version}.tar.bz2
-# Source0-md5:	8c73875a7a14d53759a0c51c7d5ec356
+# Source0-md5:	bc4a43aa7f9ee1759562f92727a95cc4
 URL:		http://goodies.xfce.org/projects/panel-plugins/xfce4-xkb-plugin
 BuildRequires:	autoconf
 BuildRequires:	automake
